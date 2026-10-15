@@ -1,0 +1,13 @@
+{
+  "name": "crew-connection-check",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local, evidence-based connection check for HivemindOS NFT agents.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "check": "node src/cli.mjs",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
