@@ -1,12 +1,12 @@
 # Developer-credit submission package
 
-Status: **working local implementation and live evidence prepared; public repository, public post and application submission pending.**
+Status: **implementation, live evidence and public repository ready; public post and application submission pending.**
 
 ## Form fields
 
 **Your post or thread:** supply the real public X post URL after publication. No URL exists yet.
 
-**Your repo:** publish this project as `crew-connection-check` under the operator's chosen GitHub account. Supply its real public URL. No remote has been created.
+**Your repo:** https://github.com/pascalhensel1-ai/crew-connection-check
 
 **Your usage:** paste the exact response body stored in ignored `.private/usage.json` into the provider's form. It was fetched directly from `GET /v1/usage` through the same credential path as the app. It is account-wide and can include other work. Keep it outside the public repository and public post; inspect before sharing with HivemindOS.
 
