@@ -1,0 +1,50 @@
+{
+  "app": "Crew Connection Check",
+  "version": "0.1.0",
+  "observedAt": "2026-10-15T08:11:44.677Z",
+  "source": "Live HivemindOS SuperAgent API",
+  "authentication": "verified",
+  "serviceCount": 42,
+  "directoryComplete": true,
+  "skippedUnsupportedEntries": 0,
+  "agents": [
+    {
+      "id": "hivepunkz:210",
+      "name": "HivePunk #210",
+      "discovery": "listed",
+      "chat": "reply-received",
+      "execution": "not-tested"
+    },
+    {
+      "id": "hivepunkz:544",
+      "name": "HivePunk #544",
+      "discovery": "listed",
+      "chat": "reply-received",
+      "execution": "not-tested"
+    },
+    {
+      "id": "hivepunkz:583",
+      "name": "HivePunk #583",
+      "discovery": "listed",
+      "chat": "reply-received",
+      "execution": "not-tested"
+    },
+    {
+      "id": "hivepunkz:745",
+      "name": "HivePunk #745",
+      "discovery": "listed",
+      "chat": "reply-received",
+      "execution": "not-tested"
+    },
+    {
+      "id": "looper:3374",
+      "name": "Looper #3374",
+      "discovery": "listed",
+      "chat": "setup-required",
+      "execution": "not-tested"
+    }
+  ],
+  "successfulChatProbes": 4,
+  "reportedCreditsCharged": 0,
+  "limitation": "Discovery is not chat connectivity. A chat reply is not proof of task execution or autonomous operation. Execution is not tested."
+}
